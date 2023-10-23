@@ -1,0 +1,29 @@
+.switch {
+  border-radius: 16px;
+  height: 16px;
+  position: relative;
+  width: 28px;
+}
+
+.switch .union {
+  height: 12px;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.switch.off {
+  background-color: #a7a9bc;
+}
+
+.switch.on {
+  background-color: #cf922a;
+}
+
+.switch.off .union {
+  left: 2px;
+}
+
+.switch.on .union {
+  left: 14px;
+}

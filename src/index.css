@@ -1,0 +1,17 @@
+:root {
+	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+	direction: rtl;
+}
+
+body {
+	margin: 0;
+}
+
+#root {
+	height: 100dvh;
+	position: relative;
+	display: flex;
+	flex-flow: column;
+	justify-content: center;
+	align-items: center;
+}

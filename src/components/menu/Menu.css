@@ -1,0 +1,213 @@
+.menu {
+    background-color: white;
+    border-color: #fafaf9;
+    border-left-style: solid;
+    border-left-width: 1px;
+    height: 1585px;
+    position: relative;
+    width: 217px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.menu .sidebar {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 217px;
+}
+
+.menu .element {
+    align-self: stretch;
+    border: 1px solid;
+    border-color: #fafaf9;
+    height: 52px;
+    position: relative;
+    width: 100%;
+}
+
+.menu .overlap-group {
+    background-color: #ffca45bf;
+    border-radius: 4px;
+    height: 45px;
+    left: 2px;
+    position: relative;
+    top: 4px;
+    width: 213px;
+}
+
+.menu .frame {
+    align-items: center;
+    display: inline-flex;
+    gap: 8px;
+    left: 107px;
+    position: absolute;
+    top: 10px;
+}
+
+.menu .text-wrapper {
+    color: #1f1f1f;
+    direction: rtl;
+    font-family: "Archivo", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.menu .fill-ftriup {
+    height: 12px;
+    left: 25px;
+    position: absolute;
+    top: 16px;
+    width: 12px;
+}
+
+.menu .GAMES-SVG {
+    height: 18px;
+    left: 176px;
+    position: absolute;
+    top: 13px;
+    width: 18px;
+}
+
+.menu .element-nd {
+    border: 1px solid;
+    border-color: #fafaf9;
+    height: 56px;
+    margin-right: -3px;
+    position: relative;
+    width: 220px;
+}
+
+.menu .div {
+    color: var(--neutral-600);
+    direction: rtl;
+    font-family: "Archivo", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 24px;
+    left: 71px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    text-align: left;
+    top: 10px;
+    white-space: nowrap;
+}
+
+.menu .text-wrapper-2 {
+    color: var(--neutral-600);
+    direction: rtl;
+    font-family: "Archivo", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 24px;
+    left: 56px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    text-align: center;
+    top: 10px;
+    white-space: nowrap;
+}
+
+.menu .text-wrapper-3 {
+    color: var(--neutral-600);
+    direction: rtl;
+    font-family: "Archivo", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 24px;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    text-align: center;
+    top: 10px;
+    white-space: nowrap;
+}
+
+.menu .element-2 {
+    align-self: stretch;
+    border: 1px solid;
+    border-color: #fafaf9;
+    height: 56px;
+    position: relative;
+    width: 100%;
+}
+
+.menu .title {
+    color: var(--neutral-600);
+    direction: rtl;
+    font-family: "Archivo", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 24px;
+    left: 133px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    text-align: left;
+    top: 15px;
+    white-space: nowrap;
+}
+
+.menu .MAP-SVG {
+    height: 18px;
+    left: 178px;
+    position: absolute;
+    top: 19px;
+    width: 18px;
+}
+
+.menu .img {
+    height: 12px;
+    left: 26px;
+    position: absolute;
+    top: 22px;
+    width: 12px;
+}
+
+.menu .element-3 {
+    border: 1px solid;
+    border-color: #fafaf9;
+    height: 56px;
+    left: 0;
+    position: absolute;
+    top: 276px;
+    width: 217px;
+}
+
+.menu .text-wrapper-4 {
+    color: var(--neutral-600);
+    direction: rtl;
+    font-family: "Archivo", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    height: 24px;
+    left: 117px;
+    letter-spacing: 0;
+    line-height: 24px;
+    position: absolute;
+    text-align: left;
+    top: 15px;
+    white-space: nowrap;
+}
+
+.menu .template-vector {
+    height: 18px;
+    left: 178px;
+    position: absolute;
+    top: 19px;
+    width: 14px;
+}

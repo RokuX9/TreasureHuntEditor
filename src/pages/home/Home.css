@@ -1,0 +1,79 @@
+
+.head{
+    display: flex;
+    width: 100%;
+}
+
+.main {
+    background-image: url("../../assets/homepage.png");
+    background-size: cover ;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    flex-grow: 1;
+
+}
+
+
+.main__text {
+    margin: 0;
+    font-size: 24px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.menu{
+    background-color: white;
+    height: 700px;
+    position: relative;
+    width: 217px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.active {
+    background-color: #ffca45cc;
+    border-radius: 4px;
+    height: 45px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    margin-top:10px ;
+}
+
+.active-games {
+    width: -webkit-fill-available;
+
+}
+
+.card .text-wrapper {
+    color: #1f1f1f;
+    direction: rtl;
+    font-family: "Archivo-Medium", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    height: 45px;
+    left: 903px;
+    letter-spacing: 0;
+    line-height: 26px;
+    position: absolute;
+    top: -1px;
+    width: 266px;
+}
+
+.card-list-active {
+    height: 313px;
+    position: relative;
+    width: 1188px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+
+
+

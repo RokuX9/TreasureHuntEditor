@@ -1,0 +1,112 @@
+
+.map-iteams{
+    background-color: white;
+    border-radius: 4px;
+    height: 59px;
+    overflow: hidden;
+    position: relative;
+    margin-right: 25px;
+    margin-left: 25px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.map-iteams-overlap {
+    height: 45px;
+    right: 10px;
+    position: relative;
+    top: 4px;
+    width: 266px;
+    display: flex;
+    flex-direction: row;
+}
+
+.iteams-text-wrapper-2 {
+    color: black;
+    direction: rtl;
+    font-family: "Archivo", Helvetica;
+    font-size: 18px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 15px;
+    position: relative;
+    top: 20px;
+    display: flex;
+}
+
+.map-iteams-vector {
+    height: 5px;
+    position: absolute;
+    top: 15px;
+    width: 8px;
+    margin-right: 55px;
+}
+
+.map-iteams-button{
+    background-color: #444444;
+    border-radius: 180px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 40px;
+    position: relative;
+    width: 115px;
+}
+
+.iteams-overlap-group {
+    background-color: #ffca45cc;
+    border-radius: 4px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 40px;
+    position: relative;
+    width: 115px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.iteamsdiv {
+    color: white;
+    direction: rtl;
+    font-family: "Halant", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    height: 40px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 7px;
+    width: 115px;
+
+}
+
+.BTN{
+    color: white;
+    background-color: #ffca45cc;
+    outline-width: 0;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 40px;
+    position: relative;
+    width: 115px;
+    margin-right: 10px;
+    margin-top: 10px;
+    direction: rtl;
+    font-family: "Halant", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    height: 40px;
+
+
+}
+
+.box-vector{
+    height: 38px;
+    left: 0;
+    top: 0;
+    width: 38px;
+    position: relative;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
